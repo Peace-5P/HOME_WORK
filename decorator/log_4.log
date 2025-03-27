@@ -1,0 +1,15 @@
+Время вызова: 2025-03-27 21:25:47.619930
+Функция: flat_generator
+Аргументы: args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs={}
+Результат: <generator object flat_generator at 0x000001E8EA6936B0>
+
+Время вызова: 2025-03-27 21:25:47.620931
+Функция: flat_generator
+Аргументы: args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs={}
+Результат: <generator object flat_generator at 0x000001E8EA6936B0>
+
+Время вызова: 2025-03-27 21:25:47.620931
+Функция: flat_generator
+Аргументы: args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs={}
+Результат: <generator object flat_generator at 0x000001E8EA6936B0>
+
